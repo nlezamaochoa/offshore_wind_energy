@@ -1,7 +1,9 @@
-#Nerea Lezama-Ochoa
-#Contact email: nlezamao@ucsc.edu
-#Date: May, 2026
 
+############################################################
+# Title: Time series of average habitat suitability
+# Author: Nerea Lezama-Ochoa
+# Contact: nlezamao@ucsc.edu
+############################################################
 
 # ============================================================
 # Figure 1: Habitat suitability trends across Offshore wind energy areas
